@@ -32,7 +32,7 @@ python main.py
 
 ## What’s Next?
 
-I’m excited to keep improving this project by adding features like a single-player mode against a computer opponent, tracking scores, or polishing the interface. But for now, I hope you enjoy this little tool as much as I enjoyed building it!
+I’m excited to keep improving this project by adding features like customizable voice options, bookmarking, and enhanced user interface elements to make your audiobook experience even better. For now, I hope you enjoy this handy tool as much as I enjoyed creating it!
 
 ## Contributing
 
